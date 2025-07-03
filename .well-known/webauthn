@@ -1,0 +1,5 @@
+{
+    "origins": [
+        "webauthn-tests.vercel.app"
+    ]
+}
